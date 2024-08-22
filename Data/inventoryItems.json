@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Pistola",
+    "description": "La pistola desnuda",
+    "shield": 1,
+    "attack": 6,
+    "health": 0,
+    "price": 100,
+    "type": "weapon",
+    "rarity": 2,
+    "image": "lightgun"
+  },
+  {
+    "id": 2,
+    "name": "Escudo",
+    "description": "El escudo del Capitán América",
+    "shield": 9,
+    "attack": 2,
+    "health": 50,
+    "price": 30,
+    "type": "shield",
+    "rarity": 3,
+    "image": "shield"
+  },
+  {
+    "id": 3,
+    "name": "La espada del augurio",
+    "description": "Incluye el ojo de Thundera",
+    "shield": 5,
+    "attack": 9,
+    "health": 10,
+    "price": 200,
+    "type": "knife",
+    "rarity": 2,
+    "image": "sword"
+  }
+]
